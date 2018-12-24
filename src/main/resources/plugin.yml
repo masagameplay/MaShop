@@ -1,0 +1,8 @@
+name: MaShop
+version: ${project.version}
+main: fi.matiaspaavilainen.mashop.MaShop
+api-version: 1.13
+prefix: MaShop
+depend: [Vault]
+authors: [Masa]
+description: Bring back old school chest shops with few addons
